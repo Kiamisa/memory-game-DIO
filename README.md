@@ -43,12 +43,12 @@ Este projeto é um jogo da memória simples, criado utilizando **HTML**, **CSS**
 ## 📦 Instalação
 
 1. Clone o repositório:
-```bash
-   git clone https://github.com/seu-usuario/jogo-da-memoria-emojis.git
+```
+git clone https://github.com/seu-usuario/jogo-da-memoria-emojis.git
 ```
 
 2. Navegue até a pasta do projeto:
-```bash
+```
 cd jogo-da-memoria-emojis
 ```
 
